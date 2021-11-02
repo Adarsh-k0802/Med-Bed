@@ -1,0 +1,130 @@
+/*
+#1 color = #4ACCD1;
+#2 color = #3fbbc0;
+*/
+
+a:hover,
+a:focus {
+    color: #1656ce;
+}
+
+.circled {
+	background: #1656ce;
+}
+
+.con1 > div, .con2 > div, .con3 > div { 
+	background-color: #1656ce;
+}
+
+.scrollup:hover {
+	background: #1656ce;
+}
+
+
+/* service */
+
+.service-icon span {
+	color: #1656ce;
+}
+
+
+
+/* button */
+.btn-skin {
+  background-color: #52104e;
+  border-color: #52104e;
+}
+
+
+/* top */
+.top-area {
+	background: #1656ce;
+}
+
+/* menu */
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #1656ce;
+}
+.navbar-custom.top-nav-collapse .nav li a:hover,
+.navbar-custom .nav li a:hover,
+.navbar-custom .nav li.active a,.navbar-custom.top-nav-collapse .nav li.active a  {
+    color: #1656ce;
+}
+
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #1656ce;
+}
+
+
+.bg-skin {
+	background: #1656ce;
+}
+
+.highlight-color {
+	background-color: #1656ce;
+}
+.color {
+	color: #1656ce;
+}
+
+/* pricing box  */
+.pricing-content.featured h2,.pricing-content.featured .price-bottom {
+	background-color:#1656ce;
+}
+.pricing-content.featured h3 {
+	background:#1656ce;
+}
+
+
+
+/* team */
+.cbp-l-grid-team-name {
+    color: #1656ce;
+}
+
+.cbp-l-filters-button .cbp-filter-counter {
+	background-color: #1656ce;
+}
+
+.cbp-l-filters-alignLeft .cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #1656ce;
+    border:1px solid #1656ce;
+}
+
+.cbp-l-filters-dropdownWrap {
+    background: #1656ce;
+}
+.cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active {
+    /* @editable properties */
+    background-color: #1656ce;
+    border-color: #1656ce;
+}
+.cbp-l-caption-buttonLeft,
+.cbp-l-caption-buttonRight {
+    /* @editable properties */
+    background-color: #1656ce;
+}
+
+.cbp-l-caption-buttonLeft:hover,
+.cbp-l-caption-buttonRight:hover {
+    /* @editable properties */
+    background-color: #1656ce;
+}
+
+.form-control:focus {
+  border-color: #1656ce;
+}
+
+.button-custom{
+    background:#fff;
+    color: #1656ce ;
+
+}
+
+.annual{
+    background:#fff ;
+}

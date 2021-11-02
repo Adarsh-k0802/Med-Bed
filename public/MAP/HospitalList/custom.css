@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;500;600;700&display=swap');
+*{
+    font-family: 'Asap', sans-serif;
+}
+.white{
+    color: white;
+}
+.gray{
+    color: gainsboro;
+}
+.custom-color{
+    color: #39CCCC;
+}
+.custom-backround{
+    background: #39CCCC;
+}
+.custom-button{
+    border: 1px solid #39CCCC;
+    color: #39CCCC;
+}
+.custom-button:hover{
+    background: #39CCCC;
+    color: white;
+}
+.custom-center{
+    text-align: center ;
+}
+.ml-2{
+    margin-left: 1.5rem;
+}
+.custom-size{
+    font-size: 2.3em;
+}
+
+
+
+
