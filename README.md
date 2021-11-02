@@ -31,12 +31,26 @@ Some Screenshots of website:
 HOMEPAGE
 
 ![image](https://user-images.githubusercontent.com/77494506/139785316-f8ab0f08-4b09-47c9-adb3-713729a2672c.png)
+
+
 ![image](https://user-images.githubusercontent.com/77494506/139785374-bdf12985-e5a4-4379-b515-995e2a1bc3a6.png)
+
+
 ![image](https://user-images.githubusercontent.com/77494506/139785390-3b7e926d-b608-4170-a917-65e8298da9de.png)
+
+
 ![image](https://user-images.githubusercontent.com/77494506/139785406-fef2bc2c-6d89-4bb4-bcd2-a8b2e1898a5c.png)
+
+
 ![image](https://user-images.githubusercontent.com/77494506/139785428-6d5e6884-4460-49f5-812b-a4f4e005e892.png)
+
+
 ![image](https://user-images.githubusercontent.com/77494506/139785439-340d9e1f-65e6-452c-a468-ff97a97677e2.png)
+
+
 ![image](https://user-images.githubusercontent.com/77494506/139785449-5ae0388a-7135-447f-8e3e-479556239569.png)
+
+
 
 
 
@@ -48,8 +62,12 @@ BOOK YOUR BED IN HOSPITAL AT THE TIME OF EMERGENCY
 
 
 
+
+
 HOSPITAL REGISTRATION PAGE
 ![image](https://user-images.githubusercontent.com/77494506/139785656-64b6d0e7-18c0-46ee-befe-ab16827a16dc.png)
+
+
 
 
 
@@ -60,10 +78,14 @@ HOSPITAL LOGIN PAGE
 
 
 
+
+
 BEST HOSPITAL LIST PAGE
 
 ![image](https://user-images.githubusercontent.com/77494506/139785542-fa1591ad-6faa-4a8f-904c-86d01f300746.png)
 ![image](https://user-images.githubusercontent.com/77494506/139785564-4c12bd91-8ba4-4913-9b9d-dddf0a2845cc.png)
+
+
 
 
 
